@@ -27,7 +27,7 @@ unique_scores.sort()
 print(unique_scores[-2])
 ```
 
-##OUTPUT
+## OUTPUT
 ![image](https://github.com/user-attachments/assets/681586b6-030a-499a-9766-817d90cba0a1)
 
 ## RESULT
